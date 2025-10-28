@@ -1,4 +1,4 @@
-# 🚀 Proyecto Web del Bootcamp de Prog. Básica
+# 🚀 Proyecto Web del Bootcamp de Prog. Básica - Laura Garcia
 
 Este es un proyecto que utiliza tecnologías como **HTML**, **CSS** y **Javascript** para mostrar como estructurar y crear una aplicación Web con un despliegue usando **GitHub Pages**
 
